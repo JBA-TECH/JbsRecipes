@@ -12,7 +12,14 @@ ul, ol {
 }
 
 .instructions {
-    color: darkgreen;          /* This makes the text green */
+    color: red;          /* This makes the text green */
+    background-color: transparent; /* This removes the mint green block */
+    padding: 10px;
+}
+
+
+.tips {
+    color: rgb(255, 0, 221);          /* This makes the text green */
     background-color: transparent; /* This removes the mint green block */
     padding: 10px;
 }
