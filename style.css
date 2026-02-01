@@ -1,0 +1,18 @@
+
+ul, ol {
+  margin-left: 20px;   /* Moves both lists 20px from the edge */
+  padding-left: 20px;  /* Ensures the bullets/numbers have room to sit */
+  margin-top: 20px;    /* Keeps a nice gap from the titles above */
+}
+
+.ingredients-list {
+    color: darkgreen;          /* This makes the text green */
+    background-color: transparent; /* This removes the mint green block */
+    padding: 10px;
+}
+
+.instructions {
+    color: darkgreen;          /* This makes the text green */
+    background-color: transparent; /* This removes the mint green block */
+    padding: 10px;
+}
