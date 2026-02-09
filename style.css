@@ -23,3 +23,13 @@ ul, ol {
     background-color: transparent; /* This removes the mint green block */
     padding: 10px;
 }
+
+.summary {
+    color: rgb(79, 126, 160);          /* This makes the text green */
+    background-color: transparent; /* This removes the mint green block */
+    padding: 10px;
+}
+
+li[value] {
+    color: blue; /* This makes the text of the numbered list items blue */
+}
