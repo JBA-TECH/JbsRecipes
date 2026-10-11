@@ -31,5 +31,37 @@ ul, ol {
 }
 
 li[value] {
-    color: blue; /* This makes the text of the numbered list items blue */
+    color: rgb(177, 22, 61); /* This makes the text of the numbered list items blue */
+}
+
+/* Below are the styling elements for the body and h1 tags for the main poster screen
+note the poste section*/
+
+body {
+    background-color: black;
+  }
+  h1 {
+    text-transform: uppercase;
+    font-size: 3rem;
+  }
+  
+
+.poster {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    color: white;
+    font-family: "Libre Baskerville", serif;
+    text-align: center;
+}
+
+
+ .mainpic {
+    border: 2px solid white;
+    width: 100%;
+  }
+
+ a {
+  color: rgb(197, 18, 18); /* Change 'black' to any color you like, e.g., #333 or darkred */
+  text-decoration: none; /* This removes the blue underline */
 }
